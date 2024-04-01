@@ -11,6 +11,9 @@
 		"name": "Josh Goldberg",
 		"email": "npm@joshuakgoldberg.com"
 	},
+	"contributors": [
+		"Rick Astley"
+	],
 	"type": "module",
 	"main": "./lib/index.js",
 	"files": [
