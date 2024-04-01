@@ -1,6 +1,6 @@
 {
 	"name": "eslint-preset-prettier",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "The easiest way to use Prettier for linting. Which is what you should do. 🧹",
 	"repository": {
 		"type": "git",
@@ -8,6 +8,7 @@
 	},
 	"license": "MIT",
 	"author": {
+		"name": "Josh Goldberg",
 		"email": "npm@joshuakgoldberg.com"
 	},
 	"type": "module",
