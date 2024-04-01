@@ -11,7 +11,7 @@
 
 <p align="center">
 	<em>
-		🧹 See <a href="https://github.com/typescript-eslint/typescript-eslint/issues/8814">typescript-eslint##8814 Docs: Prioritize formatting rules over other, less-important ones in docs</a> for more information. 🧹
+		🧹 See <a href="https://github.com/typescript-eslint/typescript-eslint/issues/8814">Docs: Prioritize formatting rules over other, less-important ones in docs</a> for more information. 🧹
 	</em>
 </p>
 
