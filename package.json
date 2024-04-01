@@ -2,6 +2,14 @@
 	"name": "eslint-preset-prettier",
 	"version": "1.0.0",
 	"description": "The easiest way to use Prettier for linting. Which is what you should do. 🧹",
+	"keywords": [
+		"eslint",
+		"prettier",
+		"dprint",
+		"formatting",
+		"style",
+		"linting"
+	],
 	"homepage": "https://github.com/typescript-eslint/typescript-eslint/issues/8814",
 	"repository": {
 		"type": "git",
