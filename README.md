@@ -1,5 +1,7 @@
 <h1 align="center">eslint-preset-prettier</h1>
 
+(this was an April Fools' Day joke)
+
 <p align="center">The easiest way to use Prettier for linting. Which is what you should do. 🧹</p>
 
 <p align="center">
